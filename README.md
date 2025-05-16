@@ -61,4 +61,6 @@ Pulls targeted data from websites using BeautifulSoup or other scraping librarie
 ## 📫 Contact
 
 Feel free to connect:  
-📍 L
+📍 Lublin, Poland  
+📧 [samsonget9@gmail.com](mailto:samsonget9@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/samsonkifle)
